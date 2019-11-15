@@ -1,2 +1,2 @@
-create table rightpass2 (name VARCHAR);
-create table rightpass3 (name VARCHAR);
+create table rightpass4 (name VARCHAR);
+create table rightpass5 (name VARCHAR);
