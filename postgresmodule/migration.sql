@@ -1,1 +1,1 @@
-create table gopass7 (name VARCHAR);
+create table go2020 (name VARCHAR);
