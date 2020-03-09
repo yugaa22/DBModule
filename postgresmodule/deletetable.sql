@@ -1,3 +1,1 @@
-drop table rightpass4 ;
-
-drop table rightpass5 ;
+drop table go2020 ;
