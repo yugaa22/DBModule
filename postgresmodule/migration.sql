@@ -1,10 +1,9 @@
 
-show tables;
 
-create table go2020 (name VARCHAR);
+CREATE TABLE go2022 (name VARCHAR);
 
-show tables;
+ALTER TABLE go2022 ADD company_name varchar(10);
 
-select * from go2020;
+INSERT INTO go2022 (name,company_name) VALUES ('emp1','opsmxdemo');
 
-\d go2020;
+select * from go2022;
