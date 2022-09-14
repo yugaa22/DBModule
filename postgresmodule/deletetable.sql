@@ -1,1 +1,1 @@
-drop table go2020 ;
+drop table go2022 ;
